@@ -1,0 +1,2410 @@
+{
+  "brands": [
+    "Nike", "Gucci", "LouisVuitton", "Adidas", "Lululemon", "Zara", "Chanel", "UNIQLO", "H&M", "Cartier", "Herms", "Zalando", "TiffanyCo", "Moncler", "Rolex", "Prada", "PatekPhilippe", "Burberry", "ChowTaiFook", "Swarovski", "NewBalance", "TomFord", "TheNorthFace", "PoloRalphLauren", "Levis", "MichaelKors", "ASOS", "VictoriasSecret", "UnderArmour", "Skechers", "Next", "Coach", "Nordstrom", "Chopard", "Macys", "DolceGabbana", "Omega", "ChristianLouboutin", "CA", "FootLockerInc", "Dior", "RayBan", "Puma", "Asics", "VeraWang", "AmericanEagleOutfitters", "Armani", "SteveMadden", "BrunelloCucinelli", "Fendi", "SalvatoreFerragamo", "NineWest", "UrbanOutfitters", "HugoBoss", "OldNavy", "TJMaxx", "Primark", "MaxMara", "AudemarsPiguet", "IWCSchaffhausen", "Diesel", "ManoloBlahnik", "CalvinKlein", "GAP", "Forever", "NetaPorter", "Longchamp", "TODs", "Furla", "Longines", "Sisley", "StuartWeitzman", "LaoFengXiang", "TommyHilfiger", "ToryBurch", "Tissot", "Lacoste", "Oakley", "JimmyChoo", "Valentino", "Patagonia", "NewLook", "TagHeuer", "ColeHaan", "Topshop", "Aldo", "Gstar", "ElieTahari", "JaegerLeCoultre", "Fossil", "ElieSaab", "VacheronConstantin", "Bogner", "ESCADA", "OffWhite", "BananaRepublic", "Breguet", "Swatch", "TedBaker", "Desigual"
+  ],
+  "garments": [
+    "Bloomers", "Blouse", "Bodysuit", "Bra", "Bustier", "Caftan", "Cardigan", "Cloak", "Coat", "Corset", "Dress", "Dungarees", "Jacket", "Jeans", "Jumper", "Jumpsuit", "Kilt", "Kimono", "Knickerbockers", "Leggings", "Legwarmers", "Leotard", "Panties", "Pants or Trousers", "Petticoat", "Playsuit", "Poncho", "Pyjamas", "Sarong", "Shawl", "Shirt", "Shorts", "Skirt", "Skort", "Sock", "Sweater", "Swimsuit", "Teddy", "Tie", "Tights", "Tops", "Tracksuit", "T-Shirt", "Waistcoat"
+  ],
+  "customers": [
+    {
+      "username": "erick",
+      "firstname": "Erick",
+      "lastname": "Ochieng",
+      "emailaddress": "erickochieng766@gmail.com",
+      "phonenumber": "706087204",
+      "password": "ericks1999",
+      "id": 1
+    }
+  ],
+  "categories": [
+    "electronics",
+    "jewelery",
+    "men's clothing",
+    "women's clothing"
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+      "price": 109.95,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Mens Casual Premium Slim Fit T-Shirts ",
+      "price": 22.3,
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+      "rating": {
+        "rate": 4.1,
+        "count": 259
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+        "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+        "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+        "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+        "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+        "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+        "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+        "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+        "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+        "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Mens Cotton Jacket",
+      "price": 55.99,
+      "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 500
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Mens Casual Slim Fit",
+      "price": 15.99,
+      "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+      "rating": {
+        "rate": 2.1,
+        "count": 430
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+      "price": 695,
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 400
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Solid Gold Petite Micropave ",
+      "price": 168,
+      "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 70
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "White Gold Plated Princess",
+      "price": 9.99,
+      "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 3,
+        "count": 400
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+      "price": 10.99,
+      "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 1.9,
+        "count": 100
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+      "price": 64,
+      "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+      "rating": {
+        "rate": 3.3,
+        "count": 203
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+        "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+        "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+        "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+        "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+        "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+        "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+        "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+        "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+      "price": 109,
+      "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+      "rating": {
+        "rate": 2.9,
+        "count": 470
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+      "price": 109,
+      "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 319
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+      "price": 114,
+      "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 400
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+      "price": 599,
+      "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+      "rating": {
+        "rate": 2.9,
+        "count": 250
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
+      "price": 999.99,
+      "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+      "rating": {
+        "rate": 2.2,
+        "count": 140
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+      "price": 56.99,
+      "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+      "rating": {
+        "rate": 2.6,
+        "count": 235
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+      "price": 29.95,
+      "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+      "rating": {
+        "rate": 2.9,
+        "count": 340
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg"
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+      "price": 39.99,
+      "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+      "rating": {
+        "rate": 3.8,
+        "count": 679
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+        "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+        "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+        "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+        "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+        "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+        "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg"
+      ]
+    },
+    {
+      "id": 18,
+      "title": "MBJ Women's Solid Short Sleeve Boat Neck V ",
+      "price": 9.85,
+      "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 130
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg"
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Opna Women's Short Sleeve Moisture",
+      "price": 7.95,
+      "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 146
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg"
+      ]
+    },
+    {
+      "id": 20,
+      "title": "DANVOUY Womens T Shirt Casual Cotton Short",
+      "price": 12.99,
+      "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+      "rating": {
+        "rate": 3.6,
+        "count": 145
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg"
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+      "price": 109.95,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Mens Casual Premium Slim Fit T-Shirts ",
+      "price": 22.3,
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+      "rating": {
+        "rate": 4.1,
+        "count": 259
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+        "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+        "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+        "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+        "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+        "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Mens Cotton Jacket",
+      "price": 55.99,
+      "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 500
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Mens Casual Slim Fit",
+      "price": 15.99,
+      "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+      "rating": {
+        "rate": 2.1,
+        "count": 430
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
+      ]
+    },
+    {
+      "id": 25,
+      "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+      "price": 695,
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 400
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg"
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Solid Gold Petite Micropave ",
+      "price": 168,
+      "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 70
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg"
+      ]
+    },
+    {
+      "id": 27,
+      "title": "White Gold Plated Princess",
+      "price": 9.99,
+      "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 3,
+        "count": 400
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg"
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+      "price": 10.99,
+      "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 1.9,
+        "count": 100
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg"
+      ]
+    },
+    {
+      "id": 29,
+      "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+      "price": 64,
+      "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+      "rating": {
+        "rate": 3.3,
+        "count": 203
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+        "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+        "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+        "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+        "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+        "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+        "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg"
+      ]
+    },
+    {
+      "id": 30,
+      "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+      "price": 109,
+      "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+      "rating": {
+        "rate": 2.9,
+        "count": 470
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg"
+      ]
+    },
+    {
+      "id": 31,
+      "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+      "price": 109,
+      "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 319
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg"
+      ]
+    },
+    {
+      "id": 32,
+      "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+      "price": 114,
+      "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 400
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg"
+      ]
+    },
+    {
+      "id": 33,
+      "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+      "price": 599,
+      "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+      "rating": {
+        "rate": 2.9,
+        "count": 250
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg"
+      ]
+    },
+    {
+      "id": 34,
+      "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
+      "price": 999.99,
+      "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+      "rating": {
+        "rate": 2.2,
+        "count": 140
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg"
+      ]
+    },
+    {
+      "id": 35,
+      "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+      "price": 56.99,
+      "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+      "rating": {
+        "rate": 2.6,
+        "count": 235
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg"
+      ]
+    },
+    {
+      "id": 36,
+      "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+      "price": 29.95,
+      "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+      "rating": {
+        "rate": 2.9,
+        "count": 340
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg"
+      ]
+    },
+    {
+      "id": 37,
+      "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+      "price": 39.99,
+      "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+      "rating": {
+        "rate": 3.8,
+        "count": 679
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+        "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+        "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+        "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+        "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+        "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg"
+      ]
+    },
+    {
+      "id": 38,
+      "title": "MBJ Women's Solid Short Sleeve Boat Neck V ",
+      "price": 9.85,
+      "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 130
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg"
+      ]
+    },
+    {
+      "id": 39,
+      "title": "Opna Women's Short Sleeve Moisture",
+      "price": 7.95,
+      "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 146
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg"
+      ]
+    },
+    {
+      "id": 40,
+      "title": "DANVOUY Womens T Shirt Casual Cotton Short",
+      "price": 12.99,
+      "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+      "rating": {
+        "rate": 3.6,
+        "count": 145
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg"
+      ]
+    },
+    {
+      "id": 41,
+      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+      "price": 109.95,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+      ]
+    },
+    {
+      "id": 42,
+      "title": "Mens Casual Premium Slim Fit T-Shirts ",
+      "price": 22.3,
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+      "rating": {
+        "rate": 4.1,
+        "count": 259
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+        "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+        "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+        "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+        "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+        "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
+      ]
+    },
+    {
+      "id": 43,
+      "title": "Mens Cotton Jacket",
+      "price": 55.99,
+      "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 500
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+      ]
+    },
+    {
+      "id": 44,
+      "title": "Mens Casual Slim Fit",
+      "price": 15.99,
+      "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+      "rating": {
+        "rate": 2.1,
+        "count": 430
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
+      ]
+    },
+    {
+      "id": 45,
+      "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+      "price": 695,
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 400
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg"
+      ]
+    },
+    {
+      "id": 46,
+      "title": "Solid Gold Petite Micropave ",
+      "price": 168,
+      "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 70
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg"
+      ]
+    },
+    {
+      "id": 47,
+      "title": "White Gold Plated Princess",
+      "price": 9.99,
+      "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 3,
+        "count": 400
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg"
+      ]
+    },
+    {
+      "id": 48,
+      "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+      "price": 10.99,
+      "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 1.9,
+        "count": 100
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg"
+      ]
+    },
+    {
+      "id": 49,
+      "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+      "price": 64,
+      "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+      "rating": {
+        "rate": 3.3,
+        "count": 203
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+        "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+        "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+        "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+        "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg"
+      ]
+    },
+    {
+      "id": 50,
+      "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+      "price": 109,
+      "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+      "rating": {
+        "rate": 2.9,
+        "count": 470
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg"
+      ]
+    },
+    {
+      "id": 51,
+      "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+      "price": 109,
+      "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 319
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg"
+      ]
+    },
+    {
+      "id": 52,
+      "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+      "price": 114,
+      "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 400
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg"
+      ]
+    },
+    {
+      "id": 53,
+      "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+      "price": 599,
+      "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+      "rating": {
+        "rate": 2.9,
+        "count": 250
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg"
+      ]
+    },
+    {
+      "id": 54,
+      "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
+      "price": 999.99,
+      "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+      "rating": {
+        "rate": 2.2,
+        "count": 140
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg"
+      ]
+    },
+    {
+      "id": 55,
+      "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+      "price": 56.99,
+      "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+      "rating": {
+        "rate": 2.6,
+        "count": 235
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg"
+      ]
+    },
+    {
+      "id": 56,
+      "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+      "price": 29.95,
+      "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+      "rating": {
+        "rate": 2.9,
+        "count": 340
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg"
+      ]
+    },
+    {
+      "id": 57,
+      "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+      "price": 39.99,
+      "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+      "rating": {
+        "rate": 3.8,
+        "count": 679
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+        "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+        "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+        "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+        "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+        "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+        "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg"
+      ]
+    },
+    {
+      "id": 58,
+      "title": "MBJ Women's Solid Short Sleeve Boat Neck V ",
+      "price": 9.85,
+      "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 130
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg"
+      ]
+    },
+    {
+      "id": 59,
+      "title": "Opna Women's Short Sleeve Moisture",
+      "price": 7.95,
+      "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 146
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg"
+      ]
+    },
+    {
+      "id": 60,
+      "title": "DANVOUY Womens T Shirt Casual Cotton Short",
+      "price": 12.99,
+      "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+      "rating": {
+        "rate": 3.6,
+        "count": 145
+      },
+      "thumbnails": [
+        "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg"
+      ]
+    }
+  ],
+  "transactions": [
+    {
+      "id": 3,
+      "date": "2019-12-02",
+      "description": "South by Southwest Quinoa Bowl at Fresh & Co",
+      "category": "Food",
+      "amount": -10.55
+    },
+    {
+      "id": 4,
+      "date": "2019-12-04",
+      "description": "Sunglasses, Urban Outfitters",
+      "category": "Fashion",
+      "amount": -24.99
+    },
+    {
+      "id": 5,
+      "date": "2019-12-06",
+      "description": "Venmo, Alice Pays you for Burrito",
+      "category": "Food",
+      "amount": 8.75
+    },
+    {
+      "id": 6,
+      "date": "2019-12-06",
+      "description": "Chipotle",
+      "category": "Food",
+      "amount": -17.59
+    },
+    {
+      "id": 7,
+      "date": "2019-12-07",
+      "description": "Birthday Check from Grandma",
+      "category": "Gift",
+      "amount": 50
+    },
+    {
+      "id": 9,
+      "date": "2019-12-11",
+      "description": "Paycheck from Bob's Burgers",
+      "category": "Income",
+      "amount": 1000
+    },
+    {
+      "id": 10,
+      "date": "2019-12-16",
+      "description": "Tickets, Flatiron Multiplex Cinemas",
+      "category": "Entertainment",
+      "amount": -24
+    },
+    {
+      "id": 11,
+      "date": "2019-12-16",
+      "description": "MTA Vending Machine: MetroCard",
+      "category": "Transportation",
+      "amount": -116.39
+    },
+    {
+      "id": 12,
+      "date": "2019-12-17",
+      "description": "Venmo, Pay Roommate for Rent",
+      "category": "Housing",
+      "amount": -975
+    },
+    {
+      "date": "2022-07-09",
+      "description": "Office lunch",
+      "category": "Food",
+      "amount": "2000",
+      "id": 13
+    },
+    {
+      "date": "2022-07-09",
+      "description": "Office lunch Wednesday",
+      "category": "Food",
+      "amount": "3000",
+      "id": 14
+    },
+    {
+      "date": "2023-01-28",
+      "description": "Uber Ride",
+      "category": "Hike",
+      "amount": "6789",
+      "id": 15
+    }
+  ],
+  "bots": [
+    {
+      "id": 109,
+      "name": "hjk-40",
+      "health": 75,
+      "damage": 84,
+      "armor": 31,
+      "bot_class": "Witch",
+      "catchphrase": "11010100110000100001110001100000010111101000001100",
+      "avatar_url": "https://robohash.org/quirationerem.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:10.940Z",
+      "updated_at": "2018-10-02T19:55:10.940Z"
+    },
+    {
+      "id": 114,
+      "name": "lGp-46",
+      "health": 67,
+      "damage": 21,
+      "armor": 82,
+      "bot_class": "Medic",
+      "catchphrase": "001101000100001110001111010100110000000110000101",
+      "avatar_url": "https://robohash.org/autsaepeeveniet.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:11.062Z",
+      "updated_at": "2018-10-02T19:55:11.062Z"
+    },
+    {
+      "id": 115,
+      "name": "qr-06",
+      "health": 92,
+      "damage": 37,
+      "armor": 57,
+      "bot_class": "Captain",
+      "catchphrase": "010101111110111111010010110100101111100",
+      "avatar_url": "https://robohash.org/consecteturveritatisid.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:11.093Z",
+      "updated_at": "2018-10-02T19:55:11.093Z"
+    },
+    {
+      "id": 116,
+      "name": "o-44",
+      "health": 51,
+      "damage": 90,
+      "armor": 36,
+      "bot_class": "Assault",
+      "catchphrase": "10001111010110110100111010011000011001100",
+      "avatar_url": "https://robohash.org/temporibusexercitationemprovident.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:11.119Z",
+      "updated_at": "2018-10-02T19:55:11.119Z"
+    },
+    {
+      "id": 117,
+      "name": "VL-37",
+      "health": 74,
+      "damage": 37,
+      "armor": 91,
+      "bot_class": "Defender",
+      "catchphrase": "01110101111110001001100000101011111001",
+      "avatar_url": "https://robohash.org/eiuslaborumaliquid.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:11.133Z",
+      "updated_at": "2018-10-02T19:55:11.133Z"
+    },
+    {
+      "id": 118,
+      "name": "s-96",
+      "health": 56,
+      "damage": 92,
+      "armor": 38,
+      "bot_class": "Witch",
+      "catchphrase": "110001011001010111010010110110000011110011100",
+      "avatar_url": "https://robohash.org/autearem.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:11.162Z",
+      "updated_at": "2018-10-02T19:55:11.162Z"
+    },
+    {
+      "id": 119,
+      "name": "GQ-40",
+      "health": 78,
+      "damage": 37,
+      "armor": 95,
+      "bot_class": "Defender",
+      "catchphrase": "00010100111100110110111001011111010011001",
+      "avatar_url": "https://robohash.org/repellendusporrosint.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:11.191Z",
+      "updated_at": "2018-10-02T19:55:11.191Z"
+    },
+    {
+      "id": 120,
+      "name": "\\-86",
+      "health": 56,
+      "damage": 39,
+      "armor": 82,
+      "bot_class": "Defender",
+      "catchphrase": "001000111101100001000010000010000001000101",
+      "avatar_url": "https://robohash.org/ipsamexercitationemrem.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:11.203Z",
+      "updated_at": "2018-10-02T19:55:11.203Z"
+    },
+    {
+      "id": 121,
+      "name": "wa-81",
+      "health": 49,
+      "damage": 81,
+      "armor": 39,
+      "bot_class": "Assault",
+      "catchphrase": "1010100000001001101101111100100011000010",
+      "avatar_url": "https://robohash.org/adipisciconsequaturnostrum.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:11.213Z",
+      "updated_at": "2018-10-02T19:55:11.213Z"
+    },
+    {
+      "id": 122,
+      "name": "xa-49",
+      "health": 67,
+      "damage": 95,
+      "armor": 26,
+      "bot_class": "Assault",
+      "catchphrase": "01011110101110001100111011110011100",
+      "avatar_url": "https://robohash.org/iddolormaxime.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:11.224Z",
+      "updated_at": "2018-10-02T19:55:11.224Z"
+    },
+    {
+      "id": 123,
+      "name": "^z-24",
+      "health": 41,
+      "damage": 21,
+      "armor": 99,
+      "bot_class": "Defender",
+      "catchphrase": "0001001101001110100110000010000",
+      "avatar_url": "https://robohash.org/verotemporecorrupti.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:11.242Z",
+      "updated_at": "2018-10-02T19:55:11.242Z"
+    },
+    {
+      "id": 124,
+      "name": "b-75",
+      "health": 84,
+      "damage": 30,
+      "armor": 40,
+      "bot_class": "Support",
+      "catchphrase": "10110100111001100100100110100111000011101",
+      "avatar_url": "https://robohash.org/ducimusquiaut.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:11.256Z",
+      "updated_at": "2018-10-02T19:55:11.256Z"
+    },
+    {
+      "id": 126,
+      "name": "l_]-00",
+      "health": 75,
+      "damage": 22,
+      "armor": 100,
+      "bot_class": "Defender",
+      "catchphrase": "000111001010000110111010111110101010011",
+      "avatar_url": "https://robohash.org/consequunturetquis.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:11.327Z",
+      "updated_at": "2018-10-02T19:55:11.327Z"
+    },
+    {
+      "id": 127,
+      "name": "QM-22",
+      "health": 48,
+      "damage": 34,
+      "armor": 90,
+      "bot_class": "Defender",
+      "catchphrase": "100001000111111101101000100101111100011111100110",
+      "avatar_url": "https://robohash.org/delenitipraesentiumaut.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:11.342Z",
+      "updated_at": "2018-10-02T19:55:11.342Z"
+    },
+    {
+      "id": 128,
+      "name": "qT-53",
+      "health": 72,
+      "damage": 80,
+      "armor": 29,
+      "bot_class": "Assault",
+      "catchphrase": "10011000110110001111011111110110110010",
+      "avatar_url": "https://robohash.org/quidoloresit.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:11.367Z",
+      "updated_at": "2018-10-02T19:55:11.367Z"
+    },
+    {
+      "id": 129,
+      "name": "E-88",
+      "health": 95,
+      "damage": 37,
+      "armor": 50,
+      "bot_class": "Medic",
+      "catchphrase": "0110011010100100010110100011000001110001001111",
+      "avatar_url": "https://robohash.org/beataequisaut.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:11.387Z",
+      "updated_at": "2018-10-02T19:55:11.387Z"
+    },
+    {
+      "id": 130,
+      "name": "Qz-38",
+      "health": 63,
+      "damage": 99,
+      "armor": 23,
+      "bot_class": "Assault",
+      "catchphrase": "01111111011110101100110110111000101111010",
+      "avatar_url": "https://robohash.org/repellendusasperioresdolor.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:11.439Z",
+      "updated_at": "2018-10-02T19:55:11.439Z"
+    },
+    {
+      "id": 131,
+      "name": "Q_n-34",
+      "health": 92,
+      "damage": 40,
+      "armor": 44,
+      "bot_class": "Witch",
+      "catchphrase": "0111110010100110101111100011001001",
+      "avatar_url": "https://robohash.org/quodremnihil.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:11.467Z",
+      "updated_at": "2018-10-02T19:55:11.467Z"
+    },
+    {
+      "id": 132,
+      "name": "Q-27",
+      "health": 44,
+      "damage": 24,
+      "armor": 93,
+      "bot_class": "Defender",
+      "catchphrase": "00111100011001000010010011000100000001001",
+      "avatar_url": "https://robohash.org/isteoptiodolorem.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:11.481Z",
+      "updated_at": "2018-10-02T19:55:11.481Z"
+    },
+    {
+      "id": 133,
+      "name": "ed-84",
+      "health": 54,
+      "damage": 22,
+      "armor": 93,
+      "bot_class": "Defender",
+      "catchphrase": "01111001010100000000111111110110100",
+      "avatar_url": "https://robohash.org/vitaeutporro.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:11.501Z",
+      "updated_at": "2018-10-02T19:55:11.501Z"
+    },
+    {
+      "id": 134,
+      "name": "xG-91",
+      "health": 40,
+      "damage": 33,
+      "armor": 81,
+      "bot_class": "Defender",
+      "catchphrase": "11101000001100011110000010000111101",
+      "avatar_url": "https://robohash.org/oditdoloresullam.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:11.528Z",
+      "updated_at": "2018-10-02T19:55:11.528Z"
+    },
+    {
+      "id": 135,
+      "name": "yLH-96",
+      "health": 89,
+      "damage": 40,
+      "armor": 66,
+      "bot_class": "Captain",
+      "catchphrase": "101100000111010111111101010111101101100101101111",
+      "avatar_url": "https://robohash.org/doloretqui.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:11.544Z",
+      "updated_at": "2018-10-02T19:55:11.544Z"
+    },
+    {
+      "id": 136,
+      "name": "U-01",
+      "health": 67,
+      "damage": 97,
+      "armor": 33,
+      "bot_class": "Assault",
+      "catchphrase": "111010011011101000101011100110000",
+      "avatar_url": "https://robohash.org/dolorumnumquamratione.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:11.573Z",
+      "updated_at": "2018-10-02T19:55:11.573Z"
+    },
+    {
+      "id": 137,
+      "name": "D-04",
+      "health": 86,
+      "damage": 27,
+      "armor": 55,
+      "bot_class": "Medic",
+      "catchphrase": "01000001001000001101011100100001100110100010",
+      "avatar_url": "https://robohash.org/sitvoluptatemipsa.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:11.595Z",
+      "updated_at": "2018-10-02T19:55:11.595Z"
+    },
+    {
+      "id": 138,
+      "name": "z-43",
+      "health": 54,
+      "damage": 98,
+      "armor": 20,
+      "bot_class": "Assault",
+      "catchphrase": "1000001010000010100010110101100001111001110",
+      "avatar_url": "https://robohash.org/essesaepeeaque.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:11.615Z",
+      "updated_at": "2018-10-02T19:55:11.615Z"
+    },
+    {
+      "id": 139,
+      "name": "T-30",
+      "health": 91,
+      "damage": 20,
+      "armor": 56,
+      "bot_class": "Support",
+      "catchphrase": "0011111011110111010101100111111011110",
+      "avatar_url": "https://robohash.org/quinatuset.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:11.639Z",
+      "updated_at": "2018-10-02T19:55:11.639Z"
+    },
+    {
+      "id": 140,
+      "name": "O-89",
+      "health": 86,
+      "damage": 32,
+      "armor": 57,
+      "bot_class": "Medic",
+      "catchphrase": "10100010100100010001011010001100101101",
+      "avatar_url": "https://robohash.org/quivelitdolores.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:11.650Z",
+      "updated_at": "2018-10-02T19:55:11.650Z"
+    },
+    {
+      "id": 141,
+      "name": "ak-68",
+      "health": 74,
+      "damage": 39,
+      "armor": 94,
+      "bot_class": "Defender",
+      "catchphrase": "10101000001010101110000010100010010101100111101",
+      "avatar_url": "https://robohash.org/quascumqueaut.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:11.668Z",
+      "updated_at": "2018-10-02T19:55:11.668Z"
+    },
+    {
+      "id": 142,
+      "name": "s-88",
+      "health": 91,
+      "damage": 30,
+      "armor": 48,
+      "bot_class": "Captain",
+      "catchphrase": "1011000100100010001011101110000",
+      "avatar_url": "https://robohash.org/adrecusandaevoluptatem.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:11.695Z",
+      "updated_at": "2018-10-02T19:55:11.695Z"
+    },
+    {
+      "id": 143,
+      "name": "Un-19",
+      "health": 80,
+      "damage": 22,
+      "armor": 51,
+      "bot_class": "Medic",
+      "catchphrase": "101100011111101001101011111101110100",
+      "avatar_url": "https://robohash.org/facerenequevoluptas.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:11.718Z",
+      "updated_at": "2018-10-02T19:55:11.718Z"
+    },
+    {
+      "id": 144,
+      "name": "ziP-34",
+      "health": 87,
+      "damage": 23,
+      "armor": 80,
+      "bot_class": "Support",
+      "catchphrase": "110000000100101110010011001000",
+      "avatar_url": "https://robohash.org/quisuntest.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:11.737Z",
+      "updated_at": "2018-10-02T19:55:11.737Z"
+    },
+    {
+      "id": 145,
+      "name": "v[U-90",
+      "health": 82,
+      "damage": 35,
+      "armor": 69,
+      "bot_class": "Support",
+      "catchphrase": "0010100000000000011000110010001111001010111001100",
+      "avatar_url": "https://robohash.org/laborumteneturquos.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:11.745Z",
+      "updated_at": "2018-10-02T19:55:11.745Z"
+    },
+    {
+      "id": 146,
+      "name": "ERJ-02",
+      "health": 64,
+      "damage": 96,
+      "armor": 21,
+      "bot_class": "Assault",
+      "catchphrase": "0001111111101111001010110111010011",
+      "avatar_url": "https://robohash.org/quosolutaprovident.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:11.756Z",
+      "updated_at": "2018-10-02T19:55:11.756Z"
+    },
+    {
+      "id": 147,
+      "name": "o-26",
+      "health": 88,
+      "damage": 20,
+      "armor": 53,
+      "bot_class": "Captain",
+      "catchphrase": "11001001101000100000101000001110010010011000111001",
+      "avatar_url": "https://robohash.org/eosrerumin.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:11.767Z",
+      "updated_at": "2018-10-02T19:55:11.767Z"
+    },
+    {
+      "id": 148,
+      "name": "xVP-90",
+      "health": 79,
+      "damage": 36,
+      "armor": 97,
+      "bot_class": "Witch",
+      "catchphrase": "10111001100010001100111011111110101010110",
+      "avatar_url": "https://robohash.org/maioresofficiisrepellat.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:11.781Z",
+      "updated_at": "2018-10-02T19:55:11.781Z"
+    },
+    {
+      "id": 149,
+      "name": "I-18",
+      "health": 98,
+      "damage": 33,
+      "armor": 51,
+      "bot_class": "Support",
+      "catchphrase": "0011010000110100010110011001001010101000100001101",
+      "avatar_url": "https://robohash.org/sedofficiadeserunt.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:11.795Z",
+      "updated_at": "2018-10-02T19:55:11.795Z"
+    },
+    {
+      "id": 150,
+      "name": "St-74",
+      "health": 89,
+      "damage": 29,
+      "armor": 44,
+      "bot_class": "Support",
+      "catchphrase": "011000011111000111001100101111110000",
+      "avatar_url": "https://robohash.org/necessitatibusquisunt.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:11.807Z",
+      "updated_at": "2018-10-02T19:55:11.807Z"
+    },
+    {
+      "id": 151,
+      "name": "Fd-25",
+      "health": 53,
+      "damage": 27,
+      "armor": 89,
+      "bot_class": "Defender",
+      "catchphrase": "01100010001101100101101011011011100101100110111",
+      "avatar_url": "https://robohash.org/repellatdistinctioitaque.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:11.820Z",
+      "updated_at": "2018-10-02T19:55:11.820Z"
+    },
+    {
+      "id": 152,
+      "name": "Mx-73",
+      "health": 60,
+      "damage": 24,
+      "armor": 97,
+      "bot_class": "Defender",
+      "catchphrase": "01000111011001110101110100000111110111",
+      "avatar_url": "https://robohash.org/autnesciunteos.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:11.840Z",
+      "updated_at": "2018-10-02T19:55:11.840Z"
+    },
+    {
+      "id": 153,
+      "name": "B-94",
+      "health": 82,
+      "damage": 33,
+      "armor": 45,
+      "bot_class": "Medic",
+      "catchphrase": "11001011011101010110101100111100010110001010001000",
+      "avatar_url": "https://robohash.org/maximedelenitiveritatis.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:11.862Z",
+      "updated_at": "2018-10-02T19:55:11.862Z"
+    },
+    {
+      "id": 154,
+      "name": "Jpf-48",
+      "health": 63,
+      "damage": 37,
+      "armor": 86,
+      "bot_class": "Defender",
+      "catchphrase": "11001011101101110000110000110110000001",
+      "avatar_url": "https://robohash.org/aliquidvoluptatemperspiciatis.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:11.881Z",
+      "updated_at": "2018-10-02T19:55:11.881Z"
+    },
+    {
+      "id": 155,
+      "name": "E-26",
+      "health": 95,
+      "damage": 30,
+      "armor": 70,
+      "bot_class": "Support",
+      "catchphrase": "101110100000101000101110110000001101011101001001",
+      "avatar_url": "https://robohash.org/temporibusavel.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:11.903Z",
+      "updated_at": "2018-10-02T19:55:11.903Z"
+    },
+    {
+      "id": 156,
+      "name": "mzl-89",
+      "health": 41,
+      "damage": 25,
+      "armor": 95,
+      "bot_class": "Defender",
+      "catchphrase": "0000110100110001000101011011110110000100101110",
+      "avatar_url": "https://robohash.org/ututquasi.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:11.918Z",
+      "updated_at": "2018-10-02T19:55:11.918Z"
+    },
+    {
+      "id": 157,
+      "name": "_\\-20",
+      "health": 78,
+      "damage": 85,
+      "armor": 38,
+      "bot_class": "Assault",
+      "catchphrase": "0011010110001111110000000000011011111010011101101",
+      "avatar_url": "https://robohash.org/omnisidnumquam.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:11.931Z",
+      "updated_at": "2018-10-02T19:55:11.931Z"
+    },
+    {
+      "id": 158,
+      "name": "tkB-34",
+      "health": 92,
+      "damage": 36,
+      "armor": 59,
+      "bot_class": "Captain",
+      "catchphrase": "0000100000010100100101001000000000",
+      "avatar_url": "https://robohash.org/fugasuntiure.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:11.943Z",
+      "updated_at": "2018-10-02T19:55:11.943Z"
+    },
+    {
+      "id": 159,
+      "name": "Dq-39",
+      "health": 60,
+      "damage": 89,
+      "armor": 39,
+      "bot_class": "Assault",
+      "catchphrase": "111101111111011011111111001001100010011010",
+      "avatar_url": "https://robohash.org/voluptatemquasest.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:11.955Z",
+      "updated_at": "2018-10-02T19:55:11.955Z"
+    },
+    {
+      "id": 160,
+      "name": "VwZ-65",
+      "health": 73,
+      "damage": 84,
+      "armor": 35,
+      "bot_class": "Assault",
+      "catchphrase": "10101001000101001111010001111000",
+      "avatar_url": "https://robohash.org/eumdelenitivoluptas.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:11.965Z",
+      "updated_at": "2018-10-02T19:55:11.965Z"
+    },
+    {
+      "id": 161,
+      "name": "X-77",
+      "health": 76,
+      "damage": 94,
+      "armor": 40,
+      "bot_class": "Assault",
+      "catchphrase": "1011110110000001111100010101001101111110",
+      "avatar_url": "https://robohash.org/adeseruntnatus.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:11.975Z",
+      "updated_at": "2018-10-02T19:55:11.975Z"
+    },
+    {
+      "id": 162,
+      "name": "iSh-78",
+      "health": 46,
+      "damage": 27,
+      "armor": 92,
+      "bot_class": "Defender",
+      "catchphrase": "011101110111001100001010011100111101100",
+      "avatar_url": "https://robohash.org/dolormolestiascorrupti.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:11.982Z",
+      "updated_at": "2018-10-02T19:55:11.982Z"
+    },
+    {
+      "id": 163,
+      "name": "Y-81",
+      "health": 87,
+      "damage": 29,
+      "armor": 50,
+      "bot_class": "Medic",
+      "catchphrase": "110110000001000110110100100101011001100111",
+      "avatar_url": "https://robohash.org/etipsumsed.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:11.989Z",
+      "updated_at": "2018-10-02T19:55:11.989Z"
+    },
+    {
+      "id": 164,
+      "name": "Gz-50",
+      "health": 93,
+      "damage": 33,
+      "armor": 42,
+      "bot_class": "Support",
+      "catchphrase": "001100000010111000011110101001110000",
+      "avatar_url": "https://robohash.org/ametsitqui.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:11.995Z",
+      "updated_at": "2018-10-02T19:55:11.995Z"
+    },
+    {
+      "id": 165,
+      "name": "ZSt-34",
+      "health": 81,
+      "damage": 38,
+      "armor": 64,
+      "bot_class": "Support",
+      "catchphrase": "1100111000111001100000100110011",
+      "avatar_url": "https://robohash.org/exquisat.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:12.001Z",
+      "updated_at": "2018-10-02T19:55:12.001Z"
+    },
+    {
+      "id": 166,
+      "name": "K`-65",
+      "health": 90,
+      "damage": 36,
+      "armor": 50,
+      "bot_class": "Captain",
+      "catchphrase": "1101001111111101010101110001001",
+      "avatar_url": "https://robohash.org/seddoloremest.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:12.006Z",
+      "updated_at": "2018-10-02T19:55:12.006Z"
+    },
+    {
+      "id": 167,
+      "name": "S-96",
+      "health": 84,
+      "damage": 29,
+      "armor": 77,
+      "bot_class": "Support",
+      "catchphrase": "0101001000001101000110010001011010000001100",
+      "avatar_url": "https://robohash.org/aperiamautemconsectetur.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:12.017Z",
+      "updated_at": "2018-10-02T19:55:12.017Z"
+    },
+    {
+      "id": 168,
+      "name": "Ar-02",
+      "health": 76,
+      "damage": 33,
+      "armor": 85,
+      "bot_class": "Defender",
+      "catchphrase": "1010010110100101010101101010110110001101111111110",
+      "avatar_url": "https://robohash.org/nobisdoloremad.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:12.024Z",
+      "updated_at": "2018-10-02T19:55:12.024Z"
+    },
+    {
+      "id": 169,
+      "name": "h-71",
+      "health": 89,
+      "damage": 40,
+      "armor": 41,
+      "bot_class": "Support",
+      "catchphrase": "0100101110100101011110000110111101110110",
+      "avatar_url": "https://robohash.org/quibusdamveritatisquaerat.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:12.043Z",
+      "updated_at": "2018-10-02T19:55:12.043Z"
+    },
+    {
+      "id": 170,
+      "name": "Qv-45",
+      "health": 41,
+      "damage": 38,
+      "armor": 95,
+      "bot_class": "Medic",
+      "catchphrase": "010001001110010010111110101101001110100110000",
+      "avatar_url": "https://robohash.org/inearumrerum.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:12.072Z",
+      "updated_at": "2018-10-02T19:55:12.072Z"
+    },
+    {
+      "id": 171,
+      "name": "`ux-06",
+      "health": 49,
+      "damage": 100,
+      "armor": 35,
+      "bot_class": "Assault",
+      "catchphrase": "0010011110010110000100111001100111011001",
+      "avatar_url": "https://robohash.org/inventoreisteut.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:12.090Z",
+      "updated_at": "2018-10-02T19:55:12.090Z"
+    },
+    {
+      "id": 172,
+      "name": "^zW-05",
+      "health": 43,
+      "damage": 99,
+      "armor": 37,
+      "bot_class": "Assault",
+      "catchphrase": "10011100101000000011001100101100011011011",
+      "avatar_url": "https://robohash.org/velitfacerequo.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:12.107Z",
+      "updated_at": "2018-10-02T19:55:12.107Z"
+    },
+    {
+      "id": 173,
+      "name": "o-93",
+      "health": 82,
+      "damage": 22,
+      "armor": 78,
+      "bot_class": "Support",
+      "catchphrase": "00100101111111101000101110011101110",
+      "avatar_url": "https://robohash.org/delenitietqui.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:12.127Z",
+      "updated_at": "2018-10-02T19:55:12.127Z"
+    },
+    {
+      "id": 174,
+      "name": "Ayc-42",
+      "health": 89,
+      "damage": 27,
+      "armor": 66,
+      "bot_class": "Support",
+      "catchphrase": "00011011100110100111110100101000011",
+      "avatar_url": "https://robohash.org/exeaut.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:12.139Z",
+      "updated_at": "2018-10-02T19:55:12.139Z"
+    },
+    {
+      "id": 175,
+      "name": "ef-95",
+      "health": 44,
+      "damage": 38,
+      "armor": 85,
+      "bot_class": "Defender",
+      "catchphrase": "001111111101111100100100100010010001010001111",
+      "avatar_url": "https://robohash.org/sedincidunteos.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:12.149Z",
+      "updated_at": "2018-10-02T19:55:12.149Z"
+    },
+    {
+      "id": 176,
+      "name": "tL-53",
+      "health": 65,
+      "damage": 100,
+      "armor": 25,
+      "bot_class": "Assault",
+      "catchphrase": "110001010000010100100110001001010010011",
+      "avatar_url": "https://robohash.org/eosquasiblanditiis.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:12.162Z",
+      "updated_at": "2018-10-02T19:55:12.162Z"
+    },
+    {
+      "id": 177,
+      "name": "u-94",
+      "health": 47,
+      "damage": 26,
+      "armor": 92,
+      "bot_class": "Defender",
+      "catchphrase": "001010111011001001110010110110110",
+      "avatar_url": "https://robohash.org/quiaesserepudiandae.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:12.172Z",
+      "updated_at": "2018-10-02T19:55:12.172Z"
+    },
+    {
+      "id": 178,
+      "name": "Cc-34",
+      "health": 49,
+      "damage": 27,
+      "armor": 98,
+      "bot_class": "Defender",
+      "catchphrase": "0111000100001110011100101001001001",
+      "avatar_url": "https://robohash.org/quoassumendadolorem.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:12.190Z",
+      "updated_at": "2018-10-02T19:55:12.190Z"
+    },
+    {
+      "id": 179,
+      "name": "qX-29",
+      "health": 49,
+      "damage": 88,
+      "armor": 30,
+      "bot_class": "Assault",
+      "catchphrase": "000000001000011111101101011101101010111011000110",
+      "avatar_url": "https://robohash.org/quolaborumnisi.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:12.207Z",
+      "updated_at": "2018-10-02T19:55:12.207Z"
+    },
+    {
+      "id": 180,
+      "name": "\\-94",
+      "health": 75,
+      "damage": 40,
+      "armor": 99,
+      "bot_class": "Defender",
+      "catchphrase": "010001011110101110011011101001010100010010111110",
+      "avatar_url": "https://robohash.org/invelitmaiores.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:12.230Z",
+      "updated_at": "2018-10-02T19:55:12.230Z"
+    },
+    {
+      "id": 181,
+      "name": "J-87",
+      "health": 97,
+      "damage": 40,
+      "armor": 72,
+      "bot_class": "Support",
+      "catchphrase": "1111000010010001110101100101010",
+      "avatar_url": "https://robohash.org/architectocorruptiaccusantium.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:12.245Z",
+      "updated_at": "2018-10-02T19:55:12.245Z"
+    },
+    {
+      "id": 182,
+      "name": "p-44",
+      "health": 70,
+      "damage": 31,
+      "armor": 82,
+      "bot_class": "Defender",
+      "catchphrase": "111101011000001011001011001001101000",
+      "avatar_url": "https://robohash.org/vitaeporrovoluptas.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:12.271Z",
+      "updated_at": "2018-10-02T19:55:12.271Z"
+    },
+    {
+      "id": 183,
+      "name": "yDg-64",
+      "health": 58,
+      "damage": 37,
+      "armor": 87,
+      "bot_class": "Defender",
+      "catchphrase": "1101001101000111110101010010000100010011011010",
+      "avatar_url": "https://robohash.org/rationeducimusveritatis.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:12.295Z",
+      "updated_at": "2018-10-02T19:55:12.295Z"
+    },
+    {
+      "id": 184,
+      "name": "u-40",
+      "health": 41,
+      "damage": 27,
+      "armor": 99,
+      "bot_class": "Defender",
+      "catchphrase": "011010000100010111000000111011011010111111010",
+      "avatar_url": "https://robohash.org/consecteturinventoredolor.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:12.314Z",
+      "updated_at": "2018-10-02T19:55:12.314Z"
+    },
+    {
+      "id": 185,
+      "name": "hin-85",
+      "health": 63,
+      "damage": 80,
+      "armor": 32,
+      "bot_class": "Assault",
+      "catchphrase": "00000010101001101010001101011010010101111100",
+      "avatar_url": "https://robohash.org/culpavoluptatemdeleniti.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:12.339Z",
+      "updated_at": "2018-10-02T19:55:12.339Z"
+    },
+    {
+      "id": 186,
+      "name": "G-17",
+      "health": 50,
+      "damage": 20,
+      "armor": 98,
+      "bot_class": "Defender",
+      "catchphrase": "1001111001000111010111110010111101111",
+      "avatar_url": "https://robohash.org/isteaeos.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:12.348Z",
+      "updated_at": "2018-10-02T19:55:12.348Z"
+    },
+    {
+      "id": 187,
+      "name": "ef-27",
+      "health": 74,
+      "damage": 38,
+      "armor": 87,
+      "bot_class": "Defender",
+      "catchphrase": "1111011100100111110111100111010010100001",
+      "avatar_url": "https://robohash.org/ipsumsedrecusandae.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:12.366Z",
+      "updated_at": "2018-10-02T19:55:12.366Z"
+    },
+    {
+      "id": 188,
+      "name": "]W-40",
+      "health": 80,
+      "damage": 35,
+      "armor": 75,
+      "bot_class": "Captain",
+      "catchphrase": "001010010010111000011110101111000110111010",
+      "avatar_url": "https://robohash.org/doloribusetsint.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:12.378Z",
+      "updated_at": "2018-10-02T19:55:12.378Z"
+    },
+    {
+      "id": 189,
+      "name": "yXB-04",
+      "health": 48,
+      "damage": 26,
+      "armor": 100,
+      "bot_class": "Defender",
+      "catchphrase": "111110111100011000000000111011101",
+      "avatar_url": "https://robohash.org/quiomniset.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:12.397Z",
+      "updated_at": "2018-10-02T19:55:12.397Z"
+    },
+    {
+      "id": 190,
+      "name": "c-38",
+      "health": 93,
+      "damage": 35,
+      "armor": 44,
+      "bot_class": "Medic",
+      "catchphrase": "01000110010101110000101101100110000110000110011000",
+      "avatar_url": "https://robohash.org/nobissimiliquequae.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:12.407Z",
+      "updated_at": "2018-10-02T19:55:12.407Z"
+    },
+    {
+      "id": 191,
+      "name": "h-74",
+      "health": 53,
+      "damage": 23,
+      "armor": 85,
+      "bot_class": "Medic",
+      "catchphrase": "11001111001000101000111000110100",
+      "avatar_url": "https://robohash.org/cumomnisautem.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:12.417Z",
+      "updated_at": "2018-10-02T19:55:12.417Z"
+    },
+    {
+      "id": 192,
+      "name": "Dls-86",
+      "health": 49,
+      "damage": 86,
+      "armor": 29,
+      "bot_class": "Assault",
+      "catchphrase": "110100100001001011011010011100000010111100100",
+      "avatar_url": "https://robohash.org/nullaconsequatursuscipit.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:12.432Z",
+      "updated_at": "2018-10-02T19:55:12.432Z"
+    },
+    {
+      "id": 193,
+      "name": "M-28",
+      "health": 40,
+      "damage": 93,
+      "armor": 21,
+      "bot_class": "Assault",
+      "catchphrase": "00000101111111110101111000010101",
+      "avatar_url": "https://robohash.org/eumdoloredoloribus.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:12.447Z",
+      "updated_at": "2018-10-02T19:55:12.447Z"
+    },
+    {
+      "id": 194,
+      "name": "rw-63",
+      "health": 60,
+      "damage": 98,
+      "armor": 26,
+      "bot_class": "Assault",
+      "catchphrase": "11101101111011101001100000011100101110",
+      "avatar_url": "https://robohash.org/molestiaenihilautem.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:12.463Z",
+      "updated_at": "2018-10-02T19:55:12.463Z"
+    },
+    {
+      "id": 195,
+      "name": "^-52",
+      "health": 81,
+      "damage": 32,
+      "armor": 48,
+      "bot_class": "Medic",
+      "catchphrase": "0111111001000010010100010110010",
+      "avatar_url": "https://robohash.org/aliasquoest.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:12.475Z",
+      "updated_at": "2018-10-02T19:55:12.475Z"
+    },
+    {
+      "id": 196,
+      "name": "obm-92",
+      "health": 93,
+      "damage": 23,
+      "armor": 67,
+      "bot_class": "Support",
+      "catchphrase": "011011110001101100011000100111010100011000010",
+      "avatar_url": "https://robohash.org/nulladoloratque.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:12.487Z",
+      "updated_at": "2018-10-02T19:55:12.487Z"
+    },
+    {
+      "id": 197,
+      "name": "LvH-26",
+      "health": 84,
+      "damage": 26,
+      "armor": 55,
+      "bot_class": "Support",
+      "catchphrase": "11111100001011110000010011111100111100",
+      "avatar_url": "https://robohash.org/commodiidasperiores.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:12.503Z",
+      "updated_at": "2018-10-02T19:55:12.503Z"
+    },
+    {
+      "id": 198,
+      "name": "wr-00",
+      "health": 67,
+      "damage": 84,
+      "armor": 32,
+      "bot_class": "Assault",
+      "catchphrase": "111110001100001011101010110011111001000001",
+      "avatar_url": "https://robohash.org/dictasolutanatus.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:12.512Z",
+      "updated_at": "2018-10-02T19:55:12.512Z"
+    },
+    {
+      "id": 199,
+      "name": "z-06",
+      "health": 41,
+      "damage": 27,
+      "armor": 81,
+      "bot_class": "Defender",
+      "catchphrase": "0101101100101100001100110000101001111010111",
+      "avatar_url": "https://robohash.org/sedhicquo.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:12.525Z",
+      "updated_at": "2018-10-02T19:55:12.525Z"
+    },
+    {
+      "id": 200,
+      "name": "fb-83",
+      "health": 88,
+      "damage": 38,
+      "armor": 68,
+      "bot_class": "Captain",
+      "catchphrase": "0111100000101111011000110101110111110000",
+      "avatar_url": "https://robohash.org/teneturquaereiciendis.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:12.537Z",
+      "updated_at": "2018-10-02T19:55:12.537Z"
+    }
+  ]
+}
