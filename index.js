@@ -101,5 +101,5 @@ app.listen(port, (err) => {
 })
 
 function logAccess(method, path) {
-    console.log(`${method.padEnd(9)}${path.slice(0,25).padEnd(35,".")}`)
+    console.log(`${method.padEnd(9)}${path.slice(0).padEnd(35,".")}`)
 }
